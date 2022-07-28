@@ -11,6 +11,7 @@
 }
 
 .u-section-1 .u-text-1 {
+  font-size: 4.5rem;
   margin: -210px auto 0 calc(((100% - 1140px) / 2) + -28px);
 }
 
@@ -32,7 +33,6 @@
   .u-section-1 .u-text-1 {
     margin-top: -243px;
     margin-left: calc(((100% - 940px) / 2) + -28px);
-    font-size: 4.5rem;
   }
 
   .u-section-1 .u-text-2 {
